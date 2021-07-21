@@ -1,0 +1,16 @@
+/root/MONCoin/build/rocksdb/CMakeFiles/install/local.dir
+/root/MONCoin/build/rocksdb/CMakeFiles/install.dir
+/root/MONCoin/build/rocksdb/CMakeFiles/rocksdb-shared.dir
+/root/MONCoin/build/rocksdb/CMakeFiles/build_version.dir
+/root/MONCoin/build/rocksdb/CMakeFiles/edit_cache.dir
+/root/MONCoin/build/rocksdb/CMakeFiles/install/strip.dir
+/root/MONCoin/build/rocksdb/CMakeFiles/rocksdb.dir
+/root/MONCoin/build/rocksdb/CMakeFiles/rebuild_cache.dir
+/root/MONCoin/build/rocksdb/CMakeFiles/list_install_components.dir
+/root/MONCoin/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/install/strip.dir
+/root/MONCoin/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/edit_cache.dir
+/root/MONCoin/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/list_install_components.dir
+/root/MONCoin/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/install/local.dir
+/root/MONCoin/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/gtest.dir
+/root/MONCoin/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/rebuild_cache.dir
+/root/MONCoin/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/install.dir

@@ -1,0 +1,2 @@
+gcc-ar qc libMnemonics.a  CMakeFiles/Mnemonics.dir/Mnemonics/Mnemonics.cpp.o
+gcc-ranlib libMnemonics.a

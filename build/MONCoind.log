@@ -1,0 +1,38 @@
+2021-Jul-14 01:27:00.390035 INFO    [daemon] 
+
+                                                          
+███╗   ███╗ ██████╗ ███╗   ██╗ ██████╗ ██████╗ ██╗███╗   ██╗
+████╗ ████║██╔═══██╗████╗  ██║██╔════╝██╔═══██╗██║████╗  ██║
+██╔████╔██║██║   ██║██╔██╗ ██║██║     ██║   ██║██║██╔██╗ ██║
+██║╚██╔╝██║██║   ██║██║╚██╗██║██║     ██║   ██║██║██║╚██╗██║
+██║ ╚═╝ ██║╚██████╔╝██║ ╚████║╚██████╗╚██████╔╝██║██║ ╚████║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝
+
+ MONCoin v0.13.0.1282 ()
+ This software is distributed under the General Public License v3.0
+
+ Copyright 2020-2021, The MONCoin Developers
+
+ Additional Copyright(s) may apply, please see the included LICENSE file for more information.
+ If you did not receive a copy of the LICENSE, please visit:
+ https://github.com/Kulteam/MONCoin/blob/main/LICENSE
+
+
+2021-Jul-14 01:27:00.391317 INFO    [daemon] Program Working Directory: "/root/MONCoin/build"
+2021-Jul-14 01:27:00.391411 INFO    [daemon] Loading Checkpoints for faster initial sync...
+2021-Jul-14 01:27:00.391466 INFO    [daemon] Loaded 0 default checkpoints
+2021-Jul-14 01:27:00.391991 INFO    [RocksDBWrapper] Opening DB in /root/.MONCoin/DB
+2021-Jul-14 01:27:00.402761 INFO    [RocksDBWrapper] DB opened in /root/.MONCoin/DB
+2021-Jul-14 01:27:00.413407 INFO    [daemon] Initializing core...
+2021-Jul-14 01:27:00.427921 INFO    [daemon] Core initialized OK
+2021-Jul-14 01:27:00.428263 INFO    [daemon] Initializing p2p server...
+2021-Jul-14 01:27:00.654275 ERROR   [node_server] Failed to resolve host name 'node-africa.moncoin.io': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2021-Jul-14 01:27:00.655207 INFO    [node_server] Binding on 0.0.0.0:12897
+2021-Jul-14 01:27:00.655620 INFO    [node_server] Net service binded on 0.0.0.0:12897
+2021-Jul-14 01:27:00.655880 INFO    [node_server] Attempting to add IGD port mapping.
+2021-Jul-14 01:27:04.659850 INFO    [node_server] No IGD was found.
+2021-Jul-14 01:27:04.659982 INFO    [daemon] P2p server initialized OK
+2021-Jul-14 01:27:04.660182 INFO    [daemon] Starting core rpc server on address 0.0.0.0:12898
+2021-Jul-14 01:27:04.660268 INFO    [daemon] Core rpc server started ok
+2021-Jul-14 01:27:04.660303 INFO    [daemon] Starting p2p net loop...
+2021-Jul-14 01:27:04.660341 INFO    [node_server] Starting node_server

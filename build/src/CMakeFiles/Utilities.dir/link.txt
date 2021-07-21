@@ -1,0 +1,2 @@
+gcc-ar qc libUtilities.a  CMakeFiles/Utilities.dir/Utilities/Addresses.cpp.o CMakeFiles/Utilities.dir/Utilities/FormatTools.cpp.o CMakeFiles/Utilities.dir/Utilities/Utilities.cpp.o
+gcc-ranlib libUtilities.a
