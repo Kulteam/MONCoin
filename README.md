@@ -138,10 +138,12 @@ You can build for 32-bit or 64-bit Windows. **If you're not sure, pick 64-bit.**
 -   Download the [Build Tools for Visual Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16) Installer
 -   When it opens up select **C++ build tools**, it automatically selects the needed parts. Make sure **MSVC v141 Build Tools** is selected.
 -   Install Boost. Select the appropriate version for your system:
-    -   [Boost 64-bit](https://bintray.com/boostorg/release/download_file?file_path=1.69.0%2Fbinaries%2Fboost_1_69_0-msvc-14.1-64.exe)
+    -   [Boost 64-bit](https://mega.nz/file/sRtCRSYb#MKet16o7BMaPSk4cJ0bFJlNbCeZS0-wHOAgIfXMwkF4)
     -   [Boost 32-bit](https://bintray.com/boostorg/release/download_file?file_path=1.69.0%2Fbinaries%2Fboost_1_69_0-msvc-14.1-32.exe)
 -   Install the latest full LTS version of OpenSSL (currently OpenSSL 1.1.1f). Select the appropriate version for your system:
-    -   [Win32/Win64 OpenSSL](https://slproweb.com/products/Win32OpenSSL.html
+    -   [Win32/Win64 OpenSSL](https://slproweb.com/products/Win32OpenSSL.html)
+    -   [OpenSSL 32bit](https://mega.nz/file/NcMx2Aba#F4E0nLEI0MxE0hycb9luVRtDhdHrR4B56icasjcrOAQ) 
+    -   [OpenSSL 64bit](https://mega.nz/file/tVEzBKra#FEs8GTu7l8b711qVVzhtGFraycmxjA6noRCmA0wOWoc)
 
 ##### Windows with VS2019
 
@@ -152,7 +154,7 @@ For 64-bit:
 -   `mkdir build`
 -   `cd build`
 -   `cmake -G "Visual Studio 16 2019" -A x64 .. -DBOOST_ROOT=C:/local/boost_1_69_0`
--   `MSBuild TurtleCoin.sln /p:Configuration=Release /p:PlatformToolset=v141 /m` or `MSBuild src\cli.vcxproj /p:Configuration=Release /p:PlatformToolset=v141 /m`
+-   `MSBuild MONCoin.sln /p:Configuration=Release /p:PlatformToolset=v141 /m` or `MSBuild src\cli.vcxproj /p:Configuration=Release /p:PlatformToolset=v141 /m`
 
 For 32-bit:
 
@@ -161,7 +163,7 @@ For 32-bit:
 -   `mkdir build`
 -   `cd build`
 -   `cmake -G "Visual Studio 16 2019" -A Win32 .. -DBOOST_ROOT=C:/local/boost_1_69_0`
--   `MSBuild TurtleCoin.sln /p:Configuration=Release /p:Platform=Win32 /p:PlatformToolset=v141 /m`
+-   `MSBuild MONCoin.sln /p:Configuration=Release /p:Platform=Win32 /p:PlatformToolset=v141 /m`
 
 The binaries will be in the `src/Release` folder when you are complete.
 
